@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Conversor Temperatura</string>
+    <string name="app_name">Conversor de Temperaturas</string>
+    <string name="lblCelsius">Celsius</string>
+    <string name="lblFahrenheit">Fahrenheit</string>
+    <string name="btnConverter">Converter</string>
+    <string name="btnLimpar">Limpar</string>
 </resources>
